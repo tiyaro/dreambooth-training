@@ -17,7 +17,6 @@ Using Tiyaro, developers can instantly search, compare and use the world's best 
 
 ## Blogs
 - https://www.tiyaro.ai/blog/dreambooth-retraining/
-- https://www.tiyaro.ai/blog/dreambooth-training/
 
 ## Usecases
 dreambooth, replcace face, stablediffusion training, stablediffusion retraining
